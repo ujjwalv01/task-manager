@@ -1,4 +1,4 @@
-# Task Manager - Professional Full Stack Assignment
+# Task Manager - Full Stack Assignment
 
 A high-performance, visually stunning Task Manager application built as a technical assignment to demonstrate full-stack proficiency. This project features a cutting-edge design system, robust API architecture, and a seamless user experience.
 
@@ -48,4 +48,3 @@ This application serves as a comprehensive task management tool, allowing users 
 - **Persistence Strategy**: Implemented local file storage (`data/tasks.json`) to provide full persistence without the overhead of an external database, perfectly suited for the scope of this assignment.
 
 ---
-*Prepared for technical assessment.*
